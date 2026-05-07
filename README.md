@@ -1,4 +1,7 @@
-![Avatar](./avatar.png)
+<p align="center">
+  <img src="./avatar.png" width="180" alt="Avatar" />
+</p>
+
 
 # Ulrich — Developer Portfolio
 
