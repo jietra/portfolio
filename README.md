@@ -15,8 +15,8 @@ This repository serves as a public overview of my projects — both public and p
 
 ### wos (Public, In Progress)  
 **Repo:** [wos](https://github.com/jietra/wos)  
-A Rust-based OS project embedding native AI primitives, currently under development.  
-More details will be added as the project evolves.
+A minimal ARM64 operating system written in Rust, built from scratch with a focus on clarity, modern design, and educational value.
+The long‑term goal is to evolve it into an AI‑native platform, with the kernel open‑source and the AI runtime developed separately.
 
 ---
 
