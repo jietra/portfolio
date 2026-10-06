@@ -19,9 +19,9 @@ This repository provides an overview of selected public and private projects, re
 
 ## 🚀 Featured Projects
 
-### IronGhost (Public, Active)
-
-**Repository:** [IronGhost](https://github.com/jietra/IronGhost)
+### IronGhost (Public, Active)  
+Research Area: Reliable Multi-Agent Systems  
+Repository: [IronGhost](https://github.com/jietra/IronGhost)
 
 Mission-driven orchestration for untrusted AI agents.
 
@@ -53,7 +53,8 @@ Rust, C++, Tauri, Svelte, llama.cpp
 ---
 
 ### xWALT (Public, Active)  
-**Repository:** [xWALT](https://github.com/jietra/wos)  
+Research Area: Trusted Execution & AI Isolation  
+Repository: [xWALT](https://github.com/jietra/wos)  
 
 Lean Type-I hypervisor and minimal operating-system stack written in Rust (no_std).
 
@@ -90,13 +91,13 @@ Target domains:
 ---
 
 ### dendritic_segment_model (Public)  
-**Repository:** [dendritic_segment_model](https://github.com/jietra/dendritic_segment_model)  
+Repository: [dendritic_segment_model](https://github.com/jietra/dendritic_segment_model)  
 A Python package modeling dendritic segment behavior for computational neuroscience experiments.
 
 ---
 
 ### speann (Public, Archived)  
-**Repository:** [speann](https://github.com/jietra/speann)  
+Repository: [speann](https://github.com/jietra/speann)  
 A Python package implementing evolutionary artificial neural networks.  
 Archived but kept for reference.
 
@@ -119,9 +120,9 @@ This project served as an early exploration of many of the questions later inves
 
 ---
 
-### Selected Industrial Projects
+### Selected Large-Scale Systems
 
-#### Sovereign LLM Platform
+#### Sovereign LLM Platform (2023)
 
 Architect and technical lead of the French State's sovereign LLM platform, serving more than 10,000 daily users across public-sector organizations.
 
@@ -133,17 +134,13 @@ Topics:
 - monitoring
 - AI governance
 
-#### Privacy-Preserving Identity Systems
-
-Distributed identity architectures using:
-- DID
-- MPC
-- ZKP
-- PQC
-
-#### Data Platforms
+#### Data Platforms (2020)
 
 Large-scale lakehouse and analytics infrastructures.  
+
+#### Privacy-Preserving Identity Systems (2018)
+
+Privacy-preserving identity and credential systems based on distributed identity, zero-knowledge proofs, secure multiparty computation, and post-quantum cryptography.
 
 ---
 
@@ -194,7 +191,7 @@ Application and evaluation of large language models for legislative summarisatio
 [HAL, 2024](https://hal.science/hal-04825691)
 
 ### Articles
-*Annales des Mines* ([DOI: 10.3917/rindu1.252.0027](10.3917/rindu1.252.0027)); *Culture \& Recherche* (2025)
+*Annales des Mines* ([DOI:10.3917/rindu1.252.0027](https://doi.org/10.3917/rindu1.252.0027)); *Culture \& Recherche* (2025)
 
 ---
 
@@ -212,6 +209,11 @@ virtualization, safety-critical software, cryptographic systems.
 ## 📈 Contributions
 
 This portfolio provides a high‑level overview of the work I do across both public and private repositories.
+
+---
+
+## Current focus:
+Reliable AI systems, multi-agent architectures, validation mechanisms, and trustworthy execution environments.
 
 ---
 
