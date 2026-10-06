@@ -102,17 +102,20 @@ Archived but kept for reference.
 
 ---
 
-### 🔓 Multi‑Agent Local AI System (Private)
-A fully local C++/Qt application implementing a multi‑agent AI architecture.  
-Key features:
-- Multiple AI agents collaborating to answer queries  
-- Embedded local inference only (no cloud dependency)  
-- OS‑level primitive interaction (file system, processes, networking…)  
-- Web search, code generation, and arbitrary code execution (Python, C, Bash…)  
-- Custom adaptation of the C++ runtime to run efficiently on desktop and mobile  
-- Chat‑style UI with agent orchestration  
+### 🔓 Multi-Agent Local AI System (Private, 2025)
 
-This project focuses on privacy, autonomy, and high‑performance local inference.
+Early exploration of local multi-agent architectures built around embedded LLM inference and agent orchestration.
+
+Implemented as a fully local C++/Qt application featuring:
+
+- Multiple specialized AI agents collaborating on complex tasks
+- Embedded local inference (no cloud dependency)
+- Tool use through filesystem, process, and networking primitives
+- Web search, code generation, and controlled code execution
+- Agent orchestration and coordination mechanisms
+- Custom runtime adaptations for desktop and mobile environments
+
+This project served as an early exploration of many of the questions later investigated in IronGhost, including agent specialization, orchestration, tool use, state management, and reliability in multi-agent systems.
 
 ---
 
